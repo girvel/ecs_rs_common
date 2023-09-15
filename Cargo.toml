@@ -2,6 +2,10 @@
 name = "ecs_girvel_common"
 version = "0.1.0"
 edition = "2021"
+authors = ["Nikita Girvel Dobrynin <widauka@ya.ru>"]
+description = "Common types for ecs_rs"
+license = "MIT"
+repository = "https://github.com/girvel/ecs_rs_common"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
